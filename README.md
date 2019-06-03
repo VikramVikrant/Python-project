@@ -1,2 +1,2 @@
 # Python-project
-using python 3
+using python 3 & jupyter notebook
